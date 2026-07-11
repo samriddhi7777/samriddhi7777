@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=200&section=header&text=Samriddhi%20Thakur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Banner" width="100%" />
 </p>
 
-<h3 align="center">Machine Learning Enthusiast & Full-Stack Developer</h3>
+<h3 align="center"> Full-Stack Developer & Machine Learning Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samriddhi-thakur&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -13,14 +13,12 @@
   <a href="mailto:samriddhithakur7777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/samriddhi-thakur">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/samriddhi-thakur">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/samriddhi-thakur">
+<a href="https://www.linkedin.com/in/samriddhi-thakur-6303a5282/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+ <a href="https://github.com/samriddhi7777">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
   </a>
 </p>
 
@@ -28,19 +26,11 @@
 
 ## 💫 About Me
 
-I am an enthusiastic **Computer Science & Engineering** student at **VIT Bhopal University** with strong foundations in software development, data analytics, and full-stack web development.
-
-I love building real-world solutions using clean code, modern tools, and creative problem solving. My work spans across:
-
-🚀 **Full-Stack Web Development** (Next.js, MERN, REST APIs)  
-📊 **Data Analytics & BI** (Power BI, Python, Excel)  
-🧠 **Machine Learning & AI** (Python, Scikit-learn, XGBoost)  
-☁️ **Cloud & DevOps** (AWS, Docker, CI/CD)  
-💻 **System-level Understanding** (OS, Networks, Architecture)  
+I am an enthusiastic **Computer Science & Engineering** student at **VIT Bhopal University** (CGPA: **8.82/10**) with strong foundations in software development, data analytics, and full-stack web development.
+I love building real-world solutions using clean code, modern tools, and creative problem solving. 
 
 I aim to bring together **engineering logic + creativity** to build projects that stand out.
 
-🎓 **CGPA:** 8.82 / 10  
 ---
 
 ## 🛠️ Tech Stack
