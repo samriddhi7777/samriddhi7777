@@ -98,8 +98,6 @@ A **Levels.fyi-equivalent** built for the Indian market, with a custom engine th
 
 **🔑 Key Features:**
 - **Normalization Engine:** Designed `normalize.ts` to map arbitrary company-specific level names (e.g. "SDE-2", "L4", "T3") onto a consistent L1–L7 scale for fair cross-company comparison.
-- **Auth & Validation:** Implemented NextAuth v5 with Google OAuth, and end-to-end Zod validation across all API routes.
-- **Live Comp Calculator:** Built a multi-step submission form with a real-time compensation calculator.
 - **Tech Stack:** Next.js 14, TypeScript, PostgreSQL, Prisma, NextAuth v5, Zod
 
 **🔗 Live:** [truecomp.vercel.app](https://truecomp.vercel.app)
@@ -121,8 +119,6 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 
 **🔑 Key Features:**
 - **Multi-Pattern Detection:** Engineered detection logic for six fraud patterns across the return pipeline.
-- **Explainability:** Integrated SHAP to surface why a specific return was flagged, making the model's output auditable rather than a black box.
-- **Fraud Ring Detection:** Used NetworkX graph analysis to identify coordinated fraud rings, not just individual bad actors.
 - **Full-Stack Deployment:** FastAPI backend on Render, Streamlit dashboard on Streamlit Community Cloud.
 - **Tech Stack:** Python, XGBoost, LightGBM, SHAP, NetworkX, FastAPI, Streamlit
 
