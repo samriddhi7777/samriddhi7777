@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=200&section=header&text=Samriddhi%20Thakur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:4ecdc4&height=150&section=header&text=Samriddhi%20Thakur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner" width="100%" />
 </p>
 
 <h3 align="center"> Full-Stack Developer & Machine Learning Enthusiast </h3>
