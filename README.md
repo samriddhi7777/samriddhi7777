@@ -6,19 +6,18 @@
 <h3 align="center"> Full-Stack Developer & Machine Learning Enthusiast </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samriddhi-thakur&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=samriddhi7777&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="mailto:samriddhithakur7777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-<a href="https://www.linkedin.com/in/samriddhi-thakur-6303a5282/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
- <a href="https://github.com/samriddhi7777">
+  <a href="https://www.linkedin.com/in/samriddhi-thakur-6303a5282/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/samriddhi7777">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
   </a>
 </p>
 
@@ -27,7 +26,8 @@
 ## 💫 About Me
 
 I am an enthusiastic **Computer Science & Engineering** student at **VIT Bhopal University** (CGPA: **8.82/10**) with strong foundations in software development, data analytics, and full-stack web development.
-I love building real-world solutions using clean code, modern tools, and creative problem solving. 
+
+I love building real-world solutions using clean code, modern tools, and creative problem solving.
 
 I aim to bring together **engineering logic + creativity** to build projects that stand out.
 
@@ -97,7 +97,7 @@ A **Levels.fyi-equivalent** built for the Indian market, with a custom engine th
 - **Tech Stack:** Next.js 14, TypeScript, PostgreSQL, Prisma, NextAuth v5, Zod
 
 **🔗 Live:** [truecomp.vercel.app](https://truecomp.vercel.app)
-**📂 Repo:** [github.com/samriddhi-thakur/truecomp](https://github.com/samriddhi-thakur/truecomp)
+**📂 Repo:** [github.com/samriddhi-thakur/truecomp](https://github.com/samriddhi7777/truecomp))
 
 ---
 
@@ -120,7 +120,7 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 - **Full-Stack Deployment:** FastAPI backend on Render, Streamlit dashboard on Streamlit Community Cloud.
 - **Tech Stack:** Python, XGBoost, LightGBM, SHAP, NetworkX, FastAPI, Streamlit
 
-**📂 Repo:** [github.com/samriddhi-thakur/fraud-detector](https://github.com/samriddhi-thakur/fraud-detector)
+**📂 Repo:** [github.com/samriddhi-thakur/fraud-detector](https://github.com/samriddhi7777/smart-return-fraud-detector)
 
 ---
 
@@ -138,12 +138,12 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samriddhi-thakur&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhi-thakur&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samriddhi7777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhi7777&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi-thakur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi7777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </p>
 
 ---
@@ -151,12 +151,12 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 ## 📈 Contribution Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samriddhi-thakur&theme=radical" alt="Contribution Graph" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samriddhi7777&theme=radical" alt="Contribution Graph" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samriddhi-thakur&theme=radical" alt="Repos per Language" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samriddhi-thakur&theme=radical" alt="Most Commit Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samriddhi7777&theme=radical" alt="Repos per Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samriddhi7777&theme=radical" alt="Most Commit Language" width="45%" />
 </p>
 
 ---
@@ -164,7 +164,9 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 ## 📫 Let's Connect
 
 - 📧 **Email:** samriddhithakur7777@gmail.com  
-- 💼 **LinkedIn:** [samriddhi-thakur]([https://linkedin.com/in/samriddhi-thakur](https://www.linkedin.com/in/samriddhi-thakur-6303a5282/))  
+- 💼 **LinkedIn:** [samriddhi-thakur](https://www.linkedin.com/in/samriddhi-thakur-6303a5282/)  
+- 🐙 **GitHub:** [samriddhi7777](https://github.com/samriddhi7777)
+
 ---
 
 <!-- FOOTER BANNER -->
