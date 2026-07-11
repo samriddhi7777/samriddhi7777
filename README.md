@@ -25,12 +25,15 @@
 
 ## 💫 About Me
 
-I am an enthusiastic **Computer Science & Engineering** student at **VIT Bhopal University** (CGPA: **8.82/10**) with strong foundations in software development, data analytics, and full-stack web development.
+I am an enthusiastic **Computer Science & Engineering** student at **VIT Bhopal University** (CGPA: **8.84/10**) with strong foundations in software development, data analytics, and full-stack web development.
 
 I love building real-world solutions using clean code, modern tools, and creative problem solving.
 
 I aim to bring together **engineering logic + creativity** to build projects that stand out.
 
+🔭 **Currently exploring:** Full-Stack Development, Data Analytics, and Machine Learning applications
+
+🌱 **Learning:** Advanced Data Analytics, Cloud Computing (AWS), and System Design
 ---
 
 ## 🛠️ Tech Stack
