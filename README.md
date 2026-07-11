@@ -143,20 +143,20 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi7777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi7777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="50%" />
 </p>
+
 
 ---
 
 ## 📈 Contribution Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samriddhi7777&theme=radical" alt="Contribution Graph" width="90%" />
+  <img src="https://ghchart.rshah.org/samriddhi7777" alt="Samriddhi's GitHub Contribution Chart" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samriddhi7777&theme=radical" alt="Repos per Language" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samriddhi7777&theme=radical" alt="Most Commit Language" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samriddhi7777&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="90%" />
 </p>
 
 ---
