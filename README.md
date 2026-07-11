@@ -137,12 +137,12 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samriddhi7777&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samriddhi7777" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samriddhi7777&theme=radical" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samriddhi7777&theme=radical&utcOffset=8" alt="Productive Time" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samriddhi7777&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samriddhi7777&theme=radical" alt="Top Languages" width="50%" />
 </p>
 ---
 
