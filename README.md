@@ -25,7 +25,8 @@
 
 ## 💫 About Me
 
-I am a dedicated **Computer Science Engineering** student specializing in software development, data analytics, and e-commerce technologies.
+I am a dedicated **Computer Science Engineering** student specializing in **E-Commerce Technology** at **VIT Bhopal University** (CGPA: **8.84/10**) with strong foundations in software development,machine learning, and full-stack web development.
+
 
 I enjoy crafting real-world solutions through clean code, cutting-edge tools, and innovative problem-solving.
 My work spans across:
@@ -40,8 +41,6 @@ My work spans across:
 I aim to bring together **engineering logic + creativity** to build projects that stand out.
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -162,14 +161,6 @@ An ML system that detects **six distinct e-commerce fraud patterns**, including 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=samriddhi7777&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="90%" />
 </p>
-
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** samriddhithakur7777@gmail.com  
-- 💼 **LinkedIn:** [samriddhi-thakur](https://www.linkedin.com/in/samriddhi-thakur-6303a5282/)  
-- 🐙 **GitHub:** [samriddhi7777](https://github.com/samriddhi7777)
 
 ---
 
